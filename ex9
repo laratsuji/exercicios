@@ -1,0 +1,8 @@
+fun main() {
+    var seg = 3672 
+    val horas = seg/3600 
+    seg %= 3600 
+    val min = seg/60 
+    seg %= 60 
+    println("9) $horas h $min min $seg s") 
+}
