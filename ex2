@@ -1,0 +1,6 @@
+fun main() {
+    val nome = "Maria"
+    val sobrenome = "Silva"
+    println("2) Nome completo: $nome $sobrenome")
+            
+}
