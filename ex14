@@ -1,0 +1,4 @@
+fun main() {
+    val salario = 2000.0 
+    println("14) Novo salário: ${salario*1.25}")
+}
