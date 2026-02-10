@@ -1,0 +1,9 @@
+fun main() {
+    val a = 8.0
+    val b = 2.0
+    println("3) Soma: ${a+b}")
+    println(" Subtração: ${a-b}")
+    println(" Multiplicação: ${a*b}")
+    println(" Divisão: ${a/b}")
+   
+}
