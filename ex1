@@ -1,0 +1,7 @@
+
+fun main() {
+   val a = 10.0
+   val b = 4.0
+   println("1) Diferença: ${a - b}")
+    
+}
