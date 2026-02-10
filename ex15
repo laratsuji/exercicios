@@ -1,0 +1,5 @@
+fun main() {
+    val salario = 2500.0 
+    val aumento = 10.0 
+    println("15) Novo Salário: ${salario + salario*(aumento/100)}") 
+}
