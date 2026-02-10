@@ -1,0 +1,5 @@
+fun main() {
+    val peso = 60.0 
+    val altura = 1.65 
+    println("6) IMC: ${peso/(altura*altura)}")
+}
