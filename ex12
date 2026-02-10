@@ -1,0 +1,5 @@
+fun main() {
+    val custo = 30000.0 
+    val consumidor = custo + custo*0.28 + custo*0.45 
+    println("12) Custo ao consumidor: $consumidor") 
+}
