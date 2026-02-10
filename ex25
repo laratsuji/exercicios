@@ -1,0 +1,5 @@
+fun main() {
+    val n = 10
+    println("25) Antecessor: ${n-1}")
+    println(" Sucessor: ${n+1}")
+}
