@@ -1,0 +1,7 @@
+fun main() {
+    val n1 = 7.0 
+    val n2 = 8.0 
+    val n3 = 9.0 
+    val media = (n1+n2+n3)/3 
+    println("8) Média final: $media") 
+}
