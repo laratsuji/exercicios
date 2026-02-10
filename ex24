@@ -1,0 +1,5 @@
+fun main() {
+    val r = 3.0
+    val volume = (4.0/3.0)*3.14159*r*r*r 
+    println("24) Volume da esfera: $volume")
+}
