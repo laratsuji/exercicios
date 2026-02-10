@@ -1,0 +1,11 @@
+fun main() {
+    val a = 1.0 
+    val b = 2.0 
+    val c = 3.0 
+    val d = 4.0 
+    val e = 5.0 
+    val f = 6.0 
+    val x = (c*e - b*f)/(a*e - b*d)
+    val y = (a*f - c*d)/(a*e - b*d)
+    println("13) x = $x, y = $y")
+}
