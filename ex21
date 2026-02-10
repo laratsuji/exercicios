@@ -1,0 +1,5 @@
+fun main() {
+    val dolar = 100.0 
+    val cotacao = 5.0 
+    println("21) Em reais: ${dolar*cotacao}")
+}
