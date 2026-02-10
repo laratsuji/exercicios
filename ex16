@@ -1,0 +1,9 @@
+fun main() {
+    val nascimento = 2005 
+    val atual = 2026
+    val idade = atual - nascimento
+    println("16) Anos: $idade")
+    println(" Meses: ${idade*12}")
+    println(" Semanas: ${idade*52}")
+    println(" Dias: ${idade*365}")
+}
