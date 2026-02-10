@@ -1,0 +1,5 @@
+fun main() {
+    val base = 10.0 
+    val altura = 6.0 
+    println("5) Área do triângulo: ${(base*altura)/2}") 
+}
