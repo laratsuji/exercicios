@@ -1,0 +1,10 @@
+fun main() {
+    val a = 2.0 
+    val b = 3.0 
+    val c = 4.0 
+    
+    val r = (a+b)*(a+b)
+    val s = (b+c)*(b+c)
+    val d = (r+s)/2
+    println("11) Resultado: $d")
+}
