@@ -1,0 +1,6 @@
+fun main() {
+    val sacoKg = 5.0 * 1000 
+    val racao = 100.0 
+    val restante = sacoKg - racao*2*5 
+    println("17) Ração restante: $restante g")
+}
