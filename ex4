@@ -1,0 +1,4 @@
+fun main() {
+    val lado = 5.0 
+    println("4) Área do quadrado: ${lado*lado}")
+}
