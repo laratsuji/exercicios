@@ -1,0 +1,11 @@
+fun main() {
+    val x1 = 1.0 
+    val y1 = 2.0 
+    val x2 = 4.0
+    val y2 = 6.0
+    
+    val distanciaQuadrada =
+    (x2 - x1)*(x2 - x1) + 
+    (y2 - y1)*(y2 - y1)
+    println("10) Distância ao quadrado: $distanciaQuadrada")
+}
