@@ -1,0 +1,8 @@
+fun main() {
+    var dias = 800
+    val anos = dias/365 
+    dias %= 365 
+    val meses = dias/30 
+    dias %= 30 
+    println("7) $anos anos, $meses meses e $dias dias")
+}
